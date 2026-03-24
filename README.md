@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Jeu Shane
+1st Year Computer Engineering Student @ Technological University of the Philippines - Visayas
 
-<!--
-**Joebeneo/Joebeneo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Learning C and C++
+- Interested in systems programming and embedded systems
+- Building small projects to strengthen fundamentals
 
-Here are some ideas to get you started:
+## Skills
+- Languages: C, C++
+- Tools: Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+| Project | Description |
+|---|---|
+| [password-strength-analyzer-cpp](https://github.com/Joebeneo/password-strength-analyzer-cpp) | CLI tool that evaluates password strength |
+| [caesar-cipher-cpp](https://github.com/Joebeneo/caesar-cipher-cpp) | Simple Caesar Cipher implementation |
+| [tup-ce-programs](https://github.com/Joebeneo/tup-ce-programs) | C/C++ coursework programs |
+
+## Contact
+- GitHub: [@Joebeneo](https://github.com/Joebeneo)
