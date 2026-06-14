@@ -16,6 +16,8 @@
 | [password-strength-analyzer-cpp](https://github.com/Joebeneo/password-strength-analyzer-cpp) | CLI tool that evaluates password strength |
 | [caesar-cipher-cpp](https://github.com/Joebeneo/caesar-cipher-cpp) | Simple Caesar Cipher implementation |
 | [tup-ce-programs](https://github.com/Joebeneo/tup-ce-programs) | C/C++ coursework programs |
+| [beverage-plant-tracker](https://github.com/Joebeneo/beverage-plant-tracker/tree/main) | Beverage Plant Operations Tracker |
+
 
 ## Contact
 - GitHub: [@Joebeneo](https://github.com/Joebeneo)
